@@ -1,0 +1,9 @@
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\bin\Debug\game_doz.exe.config
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\bin\Debug\game_doz.exe
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\bin\Debug\game_doz.pdb
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\obj\Debug\game_doz.csprojResolveAssemblyReference.cache
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\obj\Debug\game_doz.Form1.resources
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\obj\Debug\game_doz.Properties.Resources.resources
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\obj\Debug\game_doz.csproj.GenerateResource.Cache
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\obj\Debug\game_doz.exe
+c:\users\mani_ac\documents\visual studio 2015\Projects\game_doz\game_doz\obj\Debug\game_doz.pdb
